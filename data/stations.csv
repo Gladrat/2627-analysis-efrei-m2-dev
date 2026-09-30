@@ -1,0 +1,21 @@
+station_id,station_name,district,site_type,opened_on,connector_count,connector_max_power_kw
+ST001,Voltit 01,Centre,residential,2026-06-01,2,22.0
+ST002,Voltit 02,Sud,office,2026-06-01,6,11.0
+ST003,Voltit 03,Centre,retail,2026-06-01,4,11.0
+ST004,Voltit 04,Nord,residential,2026-06-01,3,22.0
+ST005,Voltit 05,Est,residential,2026-06-01,6,11.0
+ST006,Voltit 06,Ouest,retail,2026-06-01,2,22.0
+ST007,Voltit 07,Nord,retail,2026-06-01,4,11.0
+ST008,Voltit 08,Sud,office,2026-06-01,5,11.0
+ST009,Voltit 09,Est,residential,2026-06-01,2,11.0
+ST010,Voltit 10,Nord,retail,2026-06-01,6,22.0
+ST011,Voltit 11,Est,retail,2026-06-01,5,7.4
+ST012,Voltit 12,Sud,office,2026-06-01,5,22.0
+ST013,Voltit 13,Ouest,office,2026-06-01,6,11.0
+ST014,Voltit 14,Centre,office,2026-06-01,5,22.0
+ST015,Voltit 15,Ouest,office,2026-06-01,4,11.0
+ST016,Voltit 16,Ouest,residential,2026-06-01,6,11.0
+ST017,Voltit 17,Sud,retail,2026-06-01,6,22.0
+ST018,Voltit 18,Nord,office,2026-06-01,2,22.0
+ST019,Voltit 19,Centre,residential,2026-06-01,3,7.4
+ST020,Voltit 20,Est,residential,2026-06-16,2,22.0
