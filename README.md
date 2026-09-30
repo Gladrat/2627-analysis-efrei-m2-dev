@@ -1,6 +1,6 @@
 # 2627-analysis-efrei-m2-dev
 
-## Créer un env. virtuel Python
+## Créer un env. virtuel Python + installer ``Pandas``
 
 Ca marche partout mais c'est lent :
 
@@ -25,3 +25,8 @@ C'est pro et rapide (mais chiant à config sur Mac) :
 uv venv .venv
 uv pip install pandas
 ```
+
+## Préparer le setup Pandas
+
+- Installer l'extension VSCode `Jupyter`
+- Créer un fichier `analysis.ipynb`
